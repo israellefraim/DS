@@ -13,7 +13,7 @@ public class questao1 {
         System.out.println("Insira o 2º número: ");
         int num2 = myObj.nextInt();
         
-        System.out.println("Soma: " + (num1 + num2));
+        System.out.println("Somatória: " + (num1 + num2));
         System.out.println("Subtração: " + (num1 - num2));
         System.out.println("Multiplicação: " + (num1 * num2));
         System.out.println("Divisão: " + (num1 / num2));
